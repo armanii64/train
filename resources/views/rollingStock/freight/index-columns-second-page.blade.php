@@ -1,0 +1,16 @@
+<th scope="col">{{ __('app.rollingStock.labels.lastRevision') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.modelWeight') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.railwayManagement') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.epoch') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.carSign') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.uicType') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.breakType') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.totalLength') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.wheelBase') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.grObc') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.maximumSpeed') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.internVer') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.cargoLength') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.cargoArea') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.cargoVolume') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.usageNotes') }} {{ __('app.rollingStock.labels.car') }}</th>

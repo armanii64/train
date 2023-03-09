@@ -1,0 +1,16 @@
+<td>{{ $entity->freight->last_revision }}</td>
+<td>{{ $entity->model_weight }}</td>
+<td>{{ $entity->railway_management }}</td>
+<td>{{ $entity->epoch }}</td>
+<td>{{ $entity->freight->car_sign }}</td>
+<td>{{ $entity->freight->uic_type }}</td>
+<td>{{ $entity->freight->break_type }}</td>
+<td>{{ $entity->total_length }}</td>
+<td>{{ $entity->freight->wheel_base }}</td>
+<td>{{ $entity->freight->gr_obc }}</td>
+<td>{{ $entity->maximum_speed }}</td>
+<td>{{ $entity->freight->intern_ver }}</td>
+<td>{{ $entity->freight->cargo_length }}</td>
+<td>{{ $entity->freight->cargo_area }}</td>
+<td>{{ $entity->freight->cargo_volume }}</td>
+<td>{{ $entity->usage_notes }}</td>

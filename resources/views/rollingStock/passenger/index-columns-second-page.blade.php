@@ -1,0 +1,13 @@
+<th scope="col">{{ __('app.rollingStock.labels.modelWeight') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.railwayManagement') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.epoch') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.carSign') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.uicType') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.totalLength') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.serviceWeight') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.maximumSpeed') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.internVer') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.placesFirstClass') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.placesSecondClass') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.heating') }}</th>
+<th scope="col">{{ __('app.rollingStock.labels.usageNotes') }} {{ __('app.rollingStock.labels.car') }}</th>

@@ -1,0 +1,13 @@
+<td>{{ $entity->model_weight }}</td>
+<td>{{ $entity->railway_management }}</td>
+<td>{{ $entity->epoch }}</td>
+<td>{{ $entity->passenger->car_sign }}</td>
+<td>{{ $entity->passenger->uic_type }}</td>
+<td>{{ $entity->total_length }}</td>
+<td>{{ $entity->passenger->service_weight }}</td>
+<td>{{ $entity->maximum_speed }}</td>
+<td>{{ $entity->passenger->intern_ver }}</td>
+<td>{{ $entity->passenger->places_first_class }}</td>
+<td>{{ $entity->passenger->places_second_class }}</td>
+<td>{{ $entity->passenger->heating }}</td>
+<td>{{ $entity->usage_notes }}</td>
